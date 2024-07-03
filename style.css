@@ -12,7 +12,7 @@ img{
     color: #bf912b;
 }
 p{
-    justify-content: space-between;
+    text-align: justify;
 }
 html{
     background-color: #3b384d;
